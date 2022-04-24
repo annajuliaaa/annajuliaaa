@@ -1,6 +1,5 @@
 olá! eu sou a anna julia :)
 
-- pronomes ela/dela
 - student
    <div>
   <a href="https://github.com/annajuliaaa">
